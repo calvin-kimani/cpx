@@ -5,7 +5,7 @@
 `cpx` is a simple command-line utility that generates a basic boilerplate structure for C projects. It creates directories for source code, headers, object files, tests, documentation, and a Makefile for build automation.
 
 ## Installation
-1. Manual
+## 1. Manual
 Compile the `cpx` program using a C compiler (e.g., GCC):
 
 ```bash
@@ -18,7 +18,7 @@ Move the compiled executable to a directory in your system's PATH for global acc
 sudo mv cpx /usr/local/bin/
 ```
 
-2. Using Make
+## 2. Using Make
 To use the Makefile, simply run the following commands in the terminal:
 
 	make          # Builds the cpx executable
